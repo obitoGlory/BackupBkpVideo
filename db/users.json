@@ -54,7 +54,8 @@
     "first_name": "./bin/sh",
     "username": "tcpfloodx",
     "date": "25/3/2026, 13.39.25",
-    "is_vip": true
+    "is_vip": true,
+    "last_request_time": 1774531779915
   },
   {
     "id": 8077963505,
