@@ -202,7 +202,8 @@
     "first_name": "./0Xob1to",
     "username": "onedikaa",
     "date": "26/3/2026, 13.10.16",
-    "is_vip": true
+    "is_vip": false,
+    "vip_type": null
   },
   {
     "id": 8785562497,
