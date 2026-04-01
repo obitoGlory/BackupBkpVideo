@@ -45,7 +45,9 @@
     "last_video": "video_1540.mp4",
     "referrals": [
       7565924287
-    ]
+    ],
+    "is_vip": true,
+    "vip_type": "paid"
   },
   {
     "id": 1815233335,
