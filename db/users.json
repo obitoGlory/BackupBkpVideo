@@ -873,5 +873,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "3/4/2026, 13.26.57"
+  },
+  {
+    "id": 8319547522,
+    "first_name": "«𝗥𝗮𝗳𝘇𝘇»",
+    "username": "Rafzz1990",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "3/4/2026, 13.32.47"
   }
 ]
