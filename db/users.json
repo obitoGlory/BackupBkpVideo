@@ -1058,5 +1058,21 @@
     "referred_by": 1070806986,
     "managed_by": null,
     "date": "3/4/2026, 16.59.57"
+  },
+  {
+    "id": 8303000226,
+    "first_name": "j",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "3/4/2026, 18.35.28"
   }
 ]
