@@ -735,5 +735,21 @@
     "date": "4/3/2026, 11:51:11 AM",
     "last_request_time": 1775217602279,
     "last_video": "video_11190.mp4"
+  },
+  {
+    "id": 1532664225,
+    "first_name": "ᯓ𝐃𝐎𝐂 || 𝐍𝐄𝐗𝐔𝐒",
+    "username": "Nexusxc",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "3/4/2026, 12.10.15"
   }
 ]
