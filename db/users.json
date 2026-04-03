@@ -809,5 +809,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "3/4/2026, 13.22.58"
+  },
+  {
+    "id": 8785908133,
+    "first_name": "⏤͟͟͞͞𝐒𝐓𝐑 ϟ Wahyu",
+    "username": "Wahyyu2a",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "3/4/2026, 13.24.44"
   }
 ]
