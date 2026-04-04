@@ -127,7 +127,7 @@
     "username": "coresilent",
     "date": "26/3/2026, 01.21.59",
     "last_request_time": 1775278750069,
-    "is_vip": true,
+    "is_vip": false,
     "last_video": "video_15612.mp4",
     "video_history": [
       "1773615444673_I_need_to_go_to_Indonesia_444595.mp4",
@@ -136,7 +136,7 @@
       "video_1113.mp4",
       "video_10926.mp4"
     ],
-    "role": "user",
+    "role": "admin",
     "password": "andikawewe1",
     "currentSession": "87hbsplw2qfmniv6toz",
     "referrals": [
