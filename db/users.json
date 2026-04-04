@@ -1136,5 +1136,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "3/4/2026, 22.36.17"
+  },
+  {
+    "id": 8228989067,
+    "first_name": "Adit",
+    "username": "Aditsaja22",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "4/4/2026, 00.06.30"
   }
 ]
