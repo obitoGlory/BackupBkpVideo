@@ -1565,5 +1565,21 @@
     "referred_by": 6770116404,
     "managed_by": null,
     "date": "4/4/2026, 14.38.11"
+  },
+  {
+    "id": 7953283183,
+    "first_name": "𝗞𝗲𝗻𝘅𝘇𝘆𝘆",
+    "username": "Kenxzy11",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "4/4/2026, 16.54.37"
   }
 ]
