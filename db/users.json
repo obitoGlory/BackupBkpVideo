@@ -1205,5 +1205,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "4/4/2026, 00.06.30"
+  },
+  {
+    "id": 7635402977,
+    "first_name": "LZMODZZ",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "4/4/2026, 03.28.57"
   }
 ]
