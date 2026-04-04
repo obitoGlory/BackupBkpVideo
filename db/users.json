@@ -1423,5 +1423,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "4/4/2026, 06.49.34"
+  },
+  {
+    "id": 8522387387,
+    "first_name": "XaU",
+    "username": "kennarafx",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "4/4/2026, 09.00.21"
   }
 ]
