@@ -1045,7 +1045,9 @@
     "currentSession": null,
     "last_request_time": 0,
     "video_history": [],
-    "referrals": [],
+    "referrals": [
+      7234234589
+    ],
     "referred_by": null,
     "managed_by": null,
     "date": "3/4/2026, 13.35.10"
@@ -1511,5 +1513,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "4/4/2026, 14.37.37"
+  },
+  {
+    "id": 7234234589,
+    "first_name": ".",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": 6770116404,
+    "managed_by": null,
+    "date": "4/4/2026, 14.38.11"
   }
 ]
