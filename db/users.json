@@ -1743,5 +1743,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "5/4/2026, 03.55.44"
+  },
+  {
+    "id": 8448082521,
+    "first_name": "𝟑𝟑𝐋 𝐔𝐃𝟏𝐍 𝐓𝟓",
+    "username": "primroseell",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "5/4/2026, 05.43.29"
   }
 ]
