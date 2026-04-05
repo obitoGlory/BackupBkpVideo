@@ -1608,5 +1608,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "4/4/2026, 16.54.37"
+  },
+  {
+    "id": 8488404213,
+    "first_name": "𝙁𝙙𝙯𝙯𝟰𝙈𝙚𝙬𝙞𝙣𝙜",
+    "username": "FdzzXStore",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "5/4/2026, 01.59.18"
   }
 ]
