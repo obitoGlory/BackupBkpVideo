@@ -69,7 +69,7 @@
     "first_name": "./bin/sh",
     "username": "tcpfloodx",
     "date": "25/3/2026, 13.39.25",
-    "is_vip": false,
+    "is_vip": true,
     "last_request_time": 1774946869391,
     "last_video": "video_14134.mp4",
     "added_by": null,
