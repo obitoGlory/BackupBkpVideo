@@ -73,7 +73,9 @@
     "last_request_time": 1774946869391,
     "last_video": "video_14134.mp4",
     "added_by": null,
-    "managed_by": 7660176067
+    "managed_by": 7660176067,
+    "role": "reseller",
+    "password": "dapi"
   },
   {
     "id": 6579108730,
