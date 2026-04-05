@@ -1789,5 +1789,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "5/4/2026, 05.43.29"
+  },
+  {
+    "id": 8389064596,
+    "first_name": "P",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "5/4/2026, 06.31.57"
   }
 ]
