@@ -26,9 +26,10 @@
     "username": "beranibetul",
     "date": "25/3/2026, 15.16.52",
     "last_request_time": 1774883773088,
-    "is_vip": true,
+    "is_vip": false,
     "last_video": "video_11568.mp4",
-    "role": "user"
+    "role": "user",
+    "managed_by": 7660176067
   },
   {
     "id": 6123975078,
