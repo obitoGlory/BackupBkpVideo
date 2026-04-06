@@ -2160,5 +2160,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "6/4/2026, 08.51.51"
+  },
+  {
+    "id": 8163356040,
+    "first_name": "𝐃𝐂𝐌𝐓||√𝐏",
+    "username": "RoynotDev",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "6/4/2026, 14.24.55"
   }
 ]
