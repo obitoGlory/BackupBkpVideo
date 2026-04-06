@@ -1727,7 +1727,9 @@
       "video_12960.mp4",
       "video_12864.mp4"
     ],
-    "referrals": [],
+    "referrals": [
+      7986006014
+    ],
     "referred_by": null,
     "managed_by": null,
     "date": "4/4/2026, 06.49.34"
@@ -2234,5 +2236,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "6/4/2026, 18.41.04"
+  },
+  {
+    "id": 7986006014,
+    "first_name": "As",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": 7297857713,
+    "managed_by": null,
+    "date": "6/4/2026, 23.43.42"
   }
 ]
