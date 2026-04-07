@@ -2353,5 +2353,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "7/4/2026, 17.05.50"
+  },
+  {
+    "id": 7491830715,
+    "first_name": "Boss",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "7/4/2026, 19.16.53"
   }
 ]
