@@ -2269,8 +2269,10 @@
     "role": "user",
     "password": null,
     "currentSession": null,
-    "last_request_time": 0,
-    "video_history": [],
+    "last_request_time": 1775529889577,
+    "video_history": [
+      "video_1478.mp4"
+    ],
     "referrals": [],
     "referred_by": null,
     "managed_by": null,
