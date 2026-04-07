@@ -2259,5 +2259,21 @@
     "referred_by": 7297857713,
     "managed_by": null,
     "date": "6/4/2026, 23.43.42"
+  },
+  {
+    "id": 1981000479,
+    "first_name": "6Million",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "7/4/2026, 02.44.39"
   }
 ]
