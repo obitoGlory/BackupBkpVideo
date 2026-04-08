@@ -2430,8 +2430,10 @@
     "role": "user",
     "password": null,
     "currentSession": null,
-    "last_request_time": 0,
-    "video_history": [],
+    "last_request_time": 1775631280789,
+    "video_history": [
+      "video_1383.mp4"
+    ],
     "referrals": [],
     "referred_by": null,
     "managed_by": null,
