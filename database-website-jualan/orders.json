@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CY9TC",
+    "username": "admin",
+    "item": "Panel Pterodactyl RAM ",
+    "type": "panel",
+    "price": 1000,
+    "status": "processing",
+    "details": {
+      "target": "",
+      "username": "1",
+      "password": "1"
+    },
+    "result": "",
+    "createdAt": "2026-04-09T12:49:17.717Z"
+  }
+]
