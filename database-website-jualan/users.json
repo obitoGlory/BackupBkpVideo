@@ -1,1 +1,11 @@
-
+[
+  {
+    "username": "admin",
+    "email": "abae19502@gmail.com",
+    "password": "$2a$10$DGNCAeNSWSJrA1cuNQySve5Sg6knxbFLVxHmkb9KMQ.8xVW670x2C",
+    "balance": 0,
+    "role": "user",
+    "notifications": [],
+    "createdAt": "2026-04-09T12:24:43.848Z"
+  }
+]
