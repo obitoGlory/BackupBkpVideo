@@ -1,0 +1,12 @@
+[
+  {
+    "id": "XFD0ZA",
+    "username": "admin",
+    "service": "1",
+    "target": "https://www.instagram.com/obitoesquado",
+    "quantity": "100",
+    "price": 500,
+    "status": "processing",
+    "createdAt": "2026-04-09T12:25:33.278Z"
+  }
+]
