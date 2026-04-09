@@ -1,0 +1,11 @@
+[
+  {
+    "username": "admin",
+    "password": "$2a$10$X/3jDqf/vNencLGXm3UkROiblNjkcyQrBziaR6HGHsCE2fIVw2h.a",
+    "email": "admin@website.com",
+    "balance": 99999999,
+    "role": "admin",
+    "notifications": [],
+    "createdAt": "2026-04-09T12:42:39.397Z"
+  }
+]
