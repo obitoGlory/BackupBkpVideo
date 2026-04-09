@@ -3,9 +3,14 @@
     "username": "admin",
     "email": "abae19502@gmail.com",
     "password": "$2a$10$DGNCAeNSWSJrA1cuNQySve5Sg6knxbFLVxHmkb9KMQ.8xVW670x2C",
-    "balance": 49500,
+    "balance": 94500,
     "role": "user",
     "notifications": [
+      {
+        "title": "🚀 Deposit Sukses!",
+        "message": "Saldo Rp 45,000 telah ditambahkan.",
+        "time": "2026-04-09T12:33:37.277Z"
+      },
       {
         "title": "🛒 Order Diproses",
         "message": "Pesanan ID #1 untuk https://www.instagram.com/obitoesquado sedang diproses.",
