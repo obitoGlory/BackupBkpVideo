@@ -7,5 +7,14 @@
     "proof": "proof-1775737506838.jpg",
     "status": "approved",
     "createdAt": "2026-04-09T12:25:06.843Z"
+  },
+  {
+    "id": "KSGN35",
+    "username": "admin",
+    "amount": 45000,
+    "method": "QRIS",
+    "proof": "proof-1775738006944.jpg",
+    "status": "pending",
+    "createdAt": "2026-04-09T12:33:26.948Z"
   }
 ]
