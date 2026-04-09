@@ -3,9 +3,14 @@
     "username": "admin",
     "password": "$2a$10$X/3jDqf/vNencLGXm3UkROiblNjkcyQrBziaR6HGHsCE2fIVw2h.a",
     "email": "admin@website.com",
-    "balance": 99997999,
+    "balance": 99996999,
     "role": "admin",
     "notifications": [
+      {
+        "title": "🎉 Pembelian Sukses",
+        "message": "Order Panel Pterodactyl RAM  berhasil. Cek menu Inventory.",
+        "time": "2026-04-09T12:49:18.071Z"
+      },
       {
         "title": "🎉 Pembelian Sukses",
         "message": "Order Panel Pterodactyl RAM  berhasil. Cek menu Inventory.",
