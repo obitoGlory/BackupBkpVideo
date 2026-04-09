@@ -6,13 +6,5 @@
     "description": "script userbot telegram dengan banyak fitur, support run termux, panel dan vps",
     "type": "script",
     "image": "prod-1775738621845.jpg"
-  },
-  {
-    "id": "1775738818791",
-    "name": "panel 1gb",
-    "price": 1000,
-    "description": "panel petro ram 1gb",
-    "type": "service",
-    "image": null
   }
 ]
