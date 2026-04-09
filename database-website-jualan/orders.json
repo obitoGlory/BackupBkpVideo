@@ -1,5 +1,20 @@
 [
   {
+    "id": "Q3OEMM",
+    "username": "admin",
+    "item": "BotAutoPost",
+    "type": "script",
+    "price": 50000,
+    "status": "success",
+    "details": {
+      "target": "",
+      "username": "",
+      "password": ""
+    },
+    "result": "https://link-download.com/script.zip",
+    "createdAt": "2026-04-09T12:33:50.967Z"
+  },
+  {
     "id": "XFD0ZA",
     "username": "admin",
     "service": "1",
