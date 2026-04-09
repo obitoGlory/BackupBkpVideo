@@ -3,9 +3,14 @@
     "username": "admin",
     "password": "$2a$10$X/3jDqf/vNencLGXm3UkROiblNjkcyQrBziaR6HGHsCE2fIVw2h.a",
     "email": "admin@website.com",
-    "balance": 99996999,
+    "balance": 99946999,
     "role": "admin",
     "notifications": [
+      {
+        "title": "🎉 Pembelian Sukses",
+        "message": "Order userbot telegram berhasil. Cek menu Inventory.",
+        "time": "2026-04-09T12:51:21.848Z"
+      },
       {
         "title": "✅ Pesanan Selesai!",
         "message": "Pesanan Panel Pterodactyl RAM  telah selesai diproses. Cek Inventory!",
