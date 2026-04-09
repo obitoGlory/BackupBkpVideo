@@ -5,7 +5,7 @@
     "amount": 50000,
     "method": "QRIS",
     "proof": "proof-1775737506838.jpg",
-    "status": "pending",
+    "status": "approved",
     "createdAt": "2026-04-09T12:25:06.843Z"
   }
 ]
