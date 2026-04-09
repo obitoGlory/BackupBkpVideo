@@ -7,6 +7,11 @@
     "role": "admin",
     "notifications": [
       {
+        "title": "✅ Pesanan Selesai!",
+        "message": "Pesanan Panel Pterodactyl RAM  telah selesai diproses. Cek Inventory!",
+        "time": "2026-04-09T12:50:02.440Z"
+      },
+      {
         "title": "🎉 Pembelian Sukses",
         "message": "Order Panel Pterodactyl RAM  berhasil. Cek menu Inventory.",
         "time": "2026-04-09T12:49:18.071Z"
