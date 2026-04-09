@@ -15,5 +15,14 @@
     "description": "panel 1gb",
     "type": "panel",
     "image": null
+  },
+  {
+    "id": "1775739383731",
+    "name": "tes",
+    "price": 1000,
+    "category": "tes doang",
+    "description": "tes aja",
+    "type": "service",
+    "image": null
   }
 ]
