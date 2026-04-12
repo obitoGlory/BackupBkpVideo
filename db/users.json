@@ -2497,5 +2497,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "12/4/2026, 13.28.49"
+  },
+  {
+    "id": 5719017574,
+    "first_name": "𓇼|8•18|28𓇼",
+    "username": "Teketer229",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "12/4/2026, 20.49.18"
   }
 ]
