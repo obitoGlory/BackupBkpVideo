@@ -2515,5 +2515,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "12/4/2026, 20.49.18"
+  },
+  {
+    "id": 8758490562,
+    "first_name": "Ahmad",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "12/4/2026, 20.51.44"
   }
 ]
