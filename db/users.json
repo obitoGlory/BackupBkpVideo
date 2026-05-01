@@ -314,16 +314,20 @@
   },
   {
     "id": 7660176067,
-    "first_name": "./0Xob1to",
+    "first_name": "./élldikáa",
     "username": "onedikaa",
-    "date": "26/3/2026, 13.10.16",
-    "is_vip": true,
-    "vip_type": "paid",
-    "last_request_time": 1775217477094,
+    "date": "1/5/2026, 12.19.43",
+    "is_vip": false,
+    "vip_type": null,
+    "last_request_time": 0,
     "last_video": "video_1667.mp4",
-    "managed_by": 7660176067,
-    "role": "admin",
-    "password": null
+    "managed_by": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null
   },
   {
     "id": 8785562497,
@@ -1786,7 +1790,7 @@
     "role": "user",
     "password": null,
     "currentSession": null,
-    "last_request_time": 1775516974856,
+    "last_request_time": 0,
     "video_history": [
       "video_12815.mp4",
       "video_14585.mp4",
@@ -1827,9 +1831,9 @@
     "referrals": [
       7986006014
     ],
-    "referred_by": null,
+    "referred_by": 7297857713,
     "managed_by": null,
-    "date": "4/4/2026, 06.49.34"
+    "date": "1/5/2026, 12.19.32"
   },
   {
     "id": 8522387387,
@@ -2075,7 +2079,7 @@
     "role": "user",
     "password": null,
     "currentSession": null,
-    "last_request_time": 1775359956313,
+    "last_request_time": 0,
     "video_history": [
       "video_1062.mp4",
       "video_1458.mp4",
@@ -2084,7 +2088,7 @@
     "referrals": [],
     "referred_by": null,
     "managed_by": null,
-    "date": "5/4/2026, 03.28.33"
+    "date": "1/5/2026, 12.19.32"
   },
   {
     "id": 6382348153,
@@ -2346,7 +2350,7 @@
   {
     "id": 7986006014,
     "first_name": "As",
-    "username": "ɴ/ᴀ",
+    "username": "Astrophp",
     "is_vip": false,
     "vip_type": null,
     "role": "user",
@@ -2355,9 +2359,9 @@
     "last_request_time": 0,
     "video_history": [],
     "referrals": [],
-    "referred_by": 7297857713,
+    "referred_by": null,
     "managed_by": null,
-    "date": "6/4/2026, 23.43.42"
+    "date": "1/5/2026, 12.19.33"
   },
   {
     "id": 1981000479,
